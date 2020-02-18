@@ -1,7 +1,7 @@
-# A webiste created to test out github
+# A website created to test out github
 
 
-This is a website that was created to learn mor about working in Gitpod, Github anf terminals in general.
+This is a website that was created to learn more about working in Gitpod, Github anf terminals in general.
 
 Link to the website can be found [here](https://liigalized.github.io/three-streams/)
 
